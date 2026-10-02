@@ -1,6 +1,6 @@
 # CampusLink
 
-CampusLink is a multi-role campus marketplace and academic support platform built with `React`, `TypeScript`, `Vite`, and `Tailwind CSS`. It combines a public-facing marketplace with authenticated workspaces for students, experts, institution representatives, and super administrators, and it can be served either as a standard Vite app during development or through a lightweight Python host for production-style local preview.
+CampusLink is a multi-role campus marketplace and academic support platform built with `React`, `Python Flet`, `TypeScript`, `Vite`, and `Tailwind CSS`. It combines a public-facing marketplace with authenticated workspaces for students, experts, institution representatives, and super administrators, and it can be served either as a standard Vite app during development or through a lightweight Python host for production-style local preview.
 
 ## What the project does
 
